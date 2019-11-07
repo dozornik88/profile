@@ -1,0 +1,12 @@
+body {
+    background: #F7F9FC;
+    color: #575F7D;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: lighter;
+    line-height: 20px;
+}
+
+a:hover {
+  color: black;
+}
