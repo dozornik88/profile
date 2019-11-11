@@ -20,9 +20,7 @@ height: 50%;
   color: white;
 }
 
-.p {
-font-family: 'Times New Roman', Times, serif;
-}
+
 
 .btn {
 
@@ -46,4 +44,16 @@ font-family: 'Times New Roman', Times, serif;
 }
 .text-center{
   text-align: center;
+}
+.cards{
+  display: flex;
+
+}
+.card img{
+  height: 350px;
+  margin: 15px;
+  padding-left: 20px;
+}
+.card h4, p {
+  padding-left: 40px;
 }
