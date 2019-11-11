@@ -1,49 +1,59 @@
-body {
-height: 100%;
-}
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Land rover Velar</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
 
-.banner{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.driving.co.uk/s3/st-driving-prod/uploads/2018/06/RR-Velar-01.jpg");
-height: 50%;
-   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative; 
-}
-.container1{
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- code a Hero / Banner section -->
+  <div class="banner">
+    <div class="container1">
+      <h1>Landrover brings stylish cars to creative people!</h1>
+      <p>Change your life and buy a moderately expensive car.</p>
+      <a class="btn" href="#">Buy now!</a>
+    </div>
+  </div>
 
-.p {
-font-family: 'Times New Roman', Times, serif;
-}
+  <!-- code a "How it works" section -->
+  <div class="container">
+    <h2 class="text-center">The car! It works!</h2>
+    <div class="cards">
 
-.btn {
+      <div class="card">
+         <img src="https://content.autotrader.com/content/dam/autotrader/articles/Cars/LandRover/RangeRoverVelar/2018/2018_LandRover_RangeRoverVelar_NCR/2018%20Land%20Rover%20Range%20Rover%20Velar%20(2).jpg" alt="buy">
+        <h4>Buy!</h4>
+        <p>Just do it!</p>
+      </div>
 
-  border-radius: 25px;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-    background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin-right: 210px;
-}
+      <div class="card">
+        <img src="https://i.ytimg.com/vi/9B-M6CaG_Po/maxresdefault.jpg" alt="">
+        <h4>Learn to buy a car</h4>
+        <p>Do it pussy!</p>
+      </div>
 
-.btn:hover {
-  background-color: blue;
-  color: white;
-}
-.text-center{
-  text-align: center;
-}
+      <div class="card">
+        <img src="https://www.autogott.at/uploads/media/automodell/0012/02/thumb_1101973_automodell_large.jpeg" alt="">
+        <h4>Build cars</h4>
+        <p>Work for LandRover.</p>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- code a footer -->
+  <div class="footer">
+    <div class="links">
+      <a href="#"><i class="fab fa-fw fa-facebook-f"></i></a>
+      <a href="#"><i class="fab fa-fw fa-github"></i></a>
+      <a href="#"><i class="fab fa-fw fa-twitter"></i></a>
+      <a href="#"><i class="fab fa-fw fa-instagram"></i></a>
+      <p>This website was coded with <i class="fas fa-heart"></i> at work.</p>
+
+    </div>
+  </div>
+
+</body>
+</html>
