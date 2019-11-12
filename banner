@@ -1,3 +1,4 @@
+  
 <html>
 <head>
   <meta charset="UTF-8">
@@ -12,7 +13,7 @@
   <div class="banner">
     <div class="container1">
       <h1>Landrover brings stylish cars to creative people!</h1>
-      <p>Change your life and buy a moderately expensive car.</p>
+      <h3>Change your life and buy a moderately expensive car.</h3>
       <a class="btn" href="#">Buy now!</a>
     </div>
   </div>
