@@ -47,13 +47,41 @@ height: 50%;
 }
 .cards{
   display: flex;
-
+ box-shadow: 0px 0px 5px #888888;
+}
+cards:hover {
+  background-color: rgb(145, 145, 132);
 }
 .card img{
   height: 350px;
   margin: 15px;
   padding-left: 20px;
+
 }
 .card h4, p {
   padding-left: 40px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+text-align: center;
+ font-style: italic;
+
+}
+
+.footer{
+  margin-top: 15px;
+  text-align: center;
+  border:solid;
+  background-color: black;
+   box-shadow: 0px 0px 5px #888888;
+}
+
+cards:hover {
+  background-color: rgb(145, 145, 132);
+}
+
+.footer p {
+  color: gray;
+}
+.links a{
+   color:greenyellow;
+   font-size: 30px;
 }
