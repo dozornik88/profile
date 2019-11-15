@@ -12,12 +12,18 @@ In this example lets say the top notes will be Bergamot, Pepper and Levander.
 The website checks its database and starts looking and sorting all the fragrances that have those notes making its main objective 
 the top notes that where selected.
 After this the User gets the results (Would be awesome if the result can be diplayed with the name and a picture of the fragrance.
-Additional window with notes that are used in the fragrances that are displayed.
-A link to the place where its sold woub be also cool)
+Also additional space with notes that are used in the fragrances will be displayed under names of the results .
+A link to the place where its sold would be also cool).
 
+
+extra: Another sorting variant will be to sort by fragrances that people know about and have used. If people dont know anything about notes but they have a favourite fragrance they like they can look for that fragrance and see what notes are in that fragrance. Website will then show similiar fragrances to that one with similiar notes.
+in future we can implement other methods like "most viewed, most liked, most commented, most reviewed etc"
 
 User
+People who have basic knowledge about fragrances or just people who are looking for specific fragrance (Perfume,elixir,eau de perfume, eau de toilette,eau de colonge,eau fraiche)
 
 Pain
+The pain is to find the right scent for a right person. So we are gonna help
 
 Solution
+Providing a website that can sort fragrances by notes and in future by other stuff
