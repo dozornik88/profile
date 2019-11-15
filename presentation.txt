@@ -1,7 +1,6 @@
 Product
-Product name: Uncommon notes
-Product Description: This website is dedicated to people who want to find there own unique smell. We have a lot of different fragrances with diffrent notes 
-inside. Some people who are curious and want to find the fragrance with a specific smell can come to this website and look specifically 
+Product name: Uncommon notes/noterance.com
+Product Description: This website is dedicated to people who want to find there own unique smell. We have a lot of different fragrances with diffrent notes inside. Some people who are curious and want to find the fragrance with a specific smell can come to this website and look specifically 
 for fragrance by notes inside.
 
 Exapmle: A user comes to the website looking for fragrances with specific notes. For example the user looks for this notes:
@@ -26,4 +25,4 @@ Pain
 The pain is to find the right scent for a right person. So we are gonna help
 
 Solution
-Providing a website that can sort fragrances by notes and in future by other stuff
+Providing a website that can sort fragrances by notes and in future by other stuff (Summer fragrances, Winter fragrances,Autumn fragrances, most viewed, recent additions,most liked, most commented, best bottle design etc)
