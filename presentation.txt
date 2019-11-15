@@ -1,0 +1,23 @@
+Product
+Product name: Uncommon notes
+Product Description: This website is dedicated to people who want to find there own unique smell. We have a lot of different fragrances with diffrent notes 
+inside. Some people who are curious and want to find the fragrance with a specific smell can come to this website and look specifically 
+for fragrance by notes inside.
+
+Exapmle: A user comes to the website looking for fragrances with specific notes. For example the user looks for this notes:
+Bergamot, Ambroxan, Geranium, Pepper, Lavender, Vetiver, Patchouli, Vannila. 
+User gets to chooses the notes out of a list that is provided on the website.
+User decides which notes he wants to add to his search and which ones will be the top/dominant notes. 
+In this example lets say the top notes will be Bergamot, Pepper and Levander.
+The website checks its database and starts looking and sorting all the fragrances that have those notes making its main objective 
+the top notes that where selected.
+After this the User gets the results (Would be awesome if the result can be diplayed with the name and a picture of the fragrance.
+Additional window with notes that are used in the fragrances that are displayed.
+A link to the place where its sold woub be also cool)
+
+
+User
+
+Pain
+
+Solution
