@@ -1,7 +1,6 @@
 Product
 Product name: Uncommon notes/noterance.com
-Product Description: This website is dedicated to people who want to find there own unique smell. We have a lot of different fragrances with diffrent notes inside. Some people who are curious and want to find the fragrance with a specific smell can come to this website and look specifically 
-for fragrance by notes inside.
+Product Description: This website is dedicated to people who want to find there own unique smell. We have a lot of different fragrances with diffrent notes inside. Some people who are curious and want to find the fragrance with a specific smell can come to this website and look specifically for fragrance by notes inside.
 
 Exapmle: A user comes to the website looking for fragrances with specific notes. For example the user looks for this notes:
 Bergamot, Ambroxan, Geranium, Pepper, Lavender, Vetiver, Patchouli, Vannila. 
