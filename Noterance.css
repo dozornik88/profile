@@ -1,0 +1,32 @@
+.container{
+  position: relative;
+background-color: #4B3949;
+}
+
+.main h1 {
+font-family: 'Cinzel Decorative', cursive;
+font-size: 100px;
+text-align: center;
+color: white;
+margin-bottom: 0px;
+}
+
+.main h2 {
+font-family: 'Cinzel Decorative', cursive;
+font-size: 20px;
+color: white;
+margin-top: 0px;
+position: absolute;
+    right: 0px;
+    width: 373px;
+    height: 29px;
+}
+.search{
+  position:absolute;
+      top: 200px;
+    width: 1070px;
+    left: 350px;
+    height: 30px;
+    border-radius: 9px;
+    font-size: 20px;
+}
